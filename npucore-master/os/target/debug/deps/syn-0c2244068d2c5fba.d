@@ -1,0 +1,44 @@
+/home/hua/npucore-master/os/target/debug/deps/syn-0c2244068d2c5fba.rmeta: /home/hua/npucore-master/os/../vendor/syn/src/lib.rs /home/hua/npucore-master/os/../vendor/syn/src/macros.rs /home/hua/npucore-master/os/../vendor/syn/src/group.rs /home/hua/npucore-master/os/../vendor/syn/src/token.rs /home/hua/npucore-master/os/../vendor/syn/src/ident.rs /home/hua/npucore-master/os/../vendor/syn/src/attr.rs /home/hua/npucore-master/os/../vendor/syn/src/bigint.rs /home/hua/npucore-master/os/../vendor/syn/src/data.rs /home/hua/npucore-master/os/../vendor/syn/src/expr.rs /home/hua/npucore-master/os/../vendor/syn/src/generics.rs /home/hua/npucore-master/os/../vendor/syn/src/lifetime.rs /home/hua/npucore-master/os/../vendor/syn/src/lit.rs /home/hua/npucore-master/os/../vendor/syn/src/mac.rs /home/hua/npucore-master/os/../vendor/syn/src/derive.rs /home/hua/npucore-master/os/../vendor/syn/src/op.rs /home/hua/npucore-master/os/../vendor/syn/src/ty.rs /home/hua/npucore-master/os/../vendor/syn/src/path.rs /home/hua/npucore-master/os/../vendor/syn/src/buffer.rs /home/hua/npucore-master/os/../vendor/syn/src/ext.rs /home/hua/npucore-master/os/../vendor/syn/src/punctuated.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_quote.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_macro_input.rs /home/hua/npucore-master/os/../vendor/syn/src/spanned.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/../gen_helper.rs /home/hua/npucore-master/os/../vendor/syn/src/export.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_keyword.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_punctuation.rs /home/hua/npucore-master/os/../vendor/syn/src/sealed.rs /home/hua/npucore-master/os/../vendor/syn/src/span.rs /home/hua/npucore-master/os/../vendor/syn/src/thread.rs /home/hua/npucore-master/os/../vendor/syn/src/lookahead.rs /home/hua/npucore-master/os/../vendor/syn/src/parse.rs /home/hua/npucore-master/os/../vendor/syn/src/discouraged.rs /home/hua/npucore-master/os/../vendor/syn/src/verbatim.rs /home/hua/npucore-master/os/../vendor/syn/src/print.rs /home/hua/npucore-master/os/../vendor/syn/src/error.rs /home/hua/npucore-master/os/../vendor/syn/src/await.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/clone.rs
+
+/home/hua/npucore-master/os/target/debug/deps/libsyn-0c2244068d2c5fba.rlib: /home/hua/npucore-master/os/../vendor/syn/src/lib.rs /home/hua/npucore-master/os/../vendor/syn/src/macros.rs /home/hua/npucore-master/os/../vendor/syn/src/group.rs /home/hua/npucore-master/os/../vendor/syn/src/token.rs /home/hua/npucore-master/os/../vendor/syn/src/ident.rs /home/hua/npucore-master/os/../vendor/syn/src/attr.rs /home/hua/npucore-master/os/../vendor/syn/src/bigint.rs /home/hua/npucore-master/os/../vendor/syn/src/data.rs /home/hua/npucore-master/os/../vendor/syn/src/expr.rs /home/hua/npucore-master/os/../vendor/syn/src/generics.rs /home/hua/npucore-master/os/../vendor/syn/src/lifetime.rs /home/hua/npucore-master/os/../vendor/syn/src/lit.rs /home/hua/npucore-master/os/../vendor/syn/src/mac.rs /home/hua/npucore-master/os/../vendor/syn/src/derive.rs /home/hua/npucore-master/os/../vendor/syn/src/op.rs /home/hua/npucore-master/os/../vendor/syn/src/ty.rs /home/hua/npucore-master/os/../vendor/syn/src/path.rs /home/hua/npucore-master/os/../vendor/syn/src/buffer.rs /home/hua/npucore-master/os/../vendor/syn/src/ext.rs /home/hua/npucore-master/os/../vendor/syn/src/punctuated.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_quote.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_macro_input.rs /home/hua/npucore-master/os/../vendor/syn/src/spanned.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/../gen_helper.rs /home/hua/npucore-master/os/../vendor/syn/src/export.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_keyword.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_punctuation.rs /home/hua/npucore-master/os/../vendor/syn/src/sealed.rs /home/hua/npucore-master/os/../vendor/syn/src/span.rs /home/hua/npucore-master/os/../vendor/syn/src/thread.rs /home/hua/npucore-master/os/../vendor/syn/src/lookahead.rs /home/hua/npucore-master/os/../vendor/syn/src/parse.rs /home/hua/npucore-master/os/../vendor/syn/src/discouraged.rs /home/hua/npucore-master/os/../vendor/syn/src/verbatim.rs /home/hua/npucore-master/os/../vendor/syn/src/print.rs /home/hua/npucore-master/os/../vendor/syn/src/error.rs /home/hua/npucore-master/os/../vendor/syn/src/await.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/clone.rs
+
+/home/hua/npucore-master/os/target/debug/deps/syn-0c2244068d2c5fba.d: /home/hua/npucore-master/os/../vendor/syn/src/lib.rs /home/hua/npucore-master/os/../vendor/syn/src/macros.rs /home/hua/npucore-master/os/../vendor/syn/src/group.rs /home/hua/npucore-master/os/../vendor/syn/src/token.rs /home/hua/npucore-master/os/../vendor/syn/src/ident.rs /home/hua/npucore-master/os/../vendor/syn/src/attr.rs /home/hua/npucore-master/os/../vendor/syn/src/bigint.rs /home/hua/npucore-master/os/../vendor/syn/src/data.rs /home/hua/npucore-master/os/../vendor/syn/src/expr.rs /home/hua/npucore-master/os/../vendor/syn/src/generics.rs /home/hua/npucore-master/os/../vendor/syn/src/lifetime.rs /home/hua/npucore-master/os/../vendor/syn/src/lit.rs /home/hua/npucore-master/os/../vendor/syn/src/mac.rs /home/hua/npucore-master/os/../vendor/syn/src/derive.rs /home/hua/npucore-master/os/../vendor/syn/src/op.rs /home/hua/npucore-master/os/../vendor/syn/src/ty.rs /home/hua/npucore-master/os/../vendor/syn/src/path.rs /home/hua/npucore-master/os/../vendor/syn/src/buffer.rs /home/hua/npucore-master/os/../vendor/syn/src/ext.rs /home/hua/npucore-master/os/../vendor/syn/src/punctuated.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_quote.rs /home/hua/npucore-master/os/../vendor/syn/src/parse_macro_input.rs /home/hua/npucore-master/os/../vendor/syn/src/spanned.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/../gen_helper.rs /home/hua/npucore-master/os/../vendor/syn/src/export.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_keyword.rs /home/hua/npucore-master/os/../vendor/syn/src/custom_punctuation.rs /home/hua/npucore-master/os/../vendor/syn/src/sealed.rs /home/hua/npucore-master/os/../vendor/syn/src/span.rs /home/hua/npucore-master/os/../vendor/syn/src/thread.rs /home/hua/npucore-master/os/../vendor/syn/src/lookahead.rs /home/hua/npucore-master/os/../vendor/syn/src/parse.rs /home/hua/npucore-master/os/../vendor/syn/src/discouraged.rs /home/hua/npucore-master/os/../vendor/syn/src/verbatim.rs /home/hua/npucore-master/os/../vendor/syn/src/print.rs /home/hua/npucore-master/os/../vendor/syn/src/error.rs /home/hua/npucore-master/os/../vendor/syn/src/await.rs /home/hua/npucore-master/os/../vendor/syn/src/gen/clone.rs
+
+/home/hua/npucore-master/os/../vendor/syn/src/lib.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/macros.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/group.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/token.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/ident.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/attr.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/bigint.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/data.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/expr.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/generics.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/lifetime.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/lit.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/mac.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/derive.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/op.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/ty.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/path.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/buffer.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/ext.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/punctuated.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/parse_quote.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/parse_macro_input.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/spanned.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/gen/../gen_helper.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/export.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/custom_keyword.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/custom_punctuation.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/sealed.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/span.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/thread.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/lookahead.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/parse.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/discouraged.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/verbatim.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/print.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/error.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/await.rs:
+/home/hua/npucore-master/os/../vendor/syn/src/gen/clone.rs:
